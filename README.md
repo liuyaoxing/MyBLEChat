@@ -14,14 +14,14 @@
 
 商店名称 | 下载链接
 ---|---
-豌豆荚  | 正在审核中
+豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myblechat
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myblechat
 百度手机| https://mobile.baidu.com/item?docid=11302383&from=1015530l
 91助手  | http://d.91.com/Soft/Android/com.liuyx.myblechat-1.html
 VIVO市场| 正在审核中
 安卓市场| http://apk.hiapk.com/appinfo/com.liuyx.myblechat
 酷安市场| http://www.coolapk.com/apk/com.liuyx.myblechat
-PP助手|正在审核中
-神马应用|正在审核中
+PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
+神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myblechat
 
 ---

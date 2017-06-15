@@ -18,7 +18,6 @@
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myblechat
 百度手机| https://mobile.baidu.com/item?docid=11302383&from=1015530l
 91助手  | http://d.91.com/Soft/Android/com.liuyx.myblechat-1.html
-VIVO市场| 正在审核中
 安卓市场| http://apk.hiapk.com/appinfo/com.liuyx.myblechat
 酷安市场| http://www.coolapk.com/apk/com.liuyx.myblechat
 PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
@@ -26,3 +25,17 @@ PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
 锤子应用|http://s.t.tt/LOYDVp?&source=share&version=2
 
 ---
+## 使用指南
+
+使用指南：https://github.com/liuyaoxing/MyBLEChat/blob/master/使用指南.HowToUse.md
+
+## 应用截图
+![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_)
+
+![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_)
+
+![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_)
+
+![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_)
+
+![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_)

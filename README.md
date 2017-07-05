@@ -16,8 +16,8 @@
 ---|---
 豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myblechat
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myblechat
-百度手机| https://mobile.baidu.com/item?type=soft&docid=11667621
-91助手  | http://d.91.com/Soft/Android/com.liuyx.myblechat-5.html
+百度手机| https://mobile.baidu.com/item?type=soft&docid=11772043
+91助手  | http://d.91.com/Soft/Android/com.liuyx.myblechat-6.html
 安卓市场| http://apk.hiapk.com/appinfo/com.liuyx.myblechat
 酷安市场| http://www.coolapk.com/apk/com.liuyx.myblechat
 PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551

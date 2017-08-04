@@ -14,16 +14,16 @@
 
 商店名称 | 下载链接
 ---|---
-豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myblechat
+酷安市场| http://www.coolapk.com/apk/com.liuyx.myblechat
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myblechat
 百度手机| https://mobile.baidu.com/item?type=soft&docid=11772043
-91助手  | http://d.91.com/Soft/Android/com.liuyx.myblechat-6.html
+锤子应用|http://s.t.tt/LOYDVp?&source=share&version=2
 安卓市场| http://apk.hiapk.com/appinfo/com.liuyx.myblechat
-酷安市场| http://www.coolapk.com/apk/com.liuyx.myblechat
 PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
 神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myblechat
-锤子应用|http://s.t.tt/LOYDVp?&source=share&version=2
 华为应用|http://a.vmall.com/app/C100037731?shareTo=weixin&shareFrom=appmarket
+豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myblechat
+91助手  | http://d.91.com/Soft/Android/com.liuyx.myblechat-7.html
 
 ---
 ## 使用指南

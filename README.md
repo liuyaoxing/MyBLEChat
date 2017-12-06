@@ -23,7 +23,6 @@ PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
 神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myblechat
 华为应用|http://a.vmall.com/app/C100037731?shareTo=weixin&shareFrom=appmarket
 豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myblechat
-91助手  | http://d.91.com/Soft/Android/com.liuyx.myblechat-7.html
 
 ---
 ## 使用指南

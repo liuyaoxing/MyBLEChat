@@ -18,7 +18,6 @@
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myblechat
 百度手机| https://mobile.baidu.com/item?type=soft&docid=22577578
 锤子应用|http://s.t.tt/LOYDVp?&source=share&version=2
-安卓市场| http://apk.hiapk.com/appinfo/com.liuyx.myblechat
 PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
 神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myblechat
 华为应用|http://a.vmall.com/app/C100037731?shareTo=weixin&shareFrom=appmarket

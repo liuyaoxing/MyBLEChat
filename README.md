@@ -29,6 +29,8 @@ PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
 使用指南：https://github.com/liuyaoxing/MyBLEChat/blob/master/使用指南.HowToUse.md
 
 ## 应用截图
+![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_2017-main.png)
+
 ![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_2017-message.png)
 
 ![image](https://github.com/liuyaoxing/MyBLEChat/raw/master/images/readme/Screenshot_2017-bluetoothlist.png)

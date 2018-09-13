@@ -16,7 +16,7 @@
 ---|---
 酷安市场| http://www.coolapk.com/apk/com.liuyx.myblechat
 应用宝  | http://android.myapp.com/myapp/detail.htm?apkName=com.liuyx.myblechat
-百度手机| https://mobile.baidu.com/item?docid=23310905
+百度手机| https://mobile.baidu.com/item?docid=23952834
 锤子应用|http://s.t.tt/LOYDVp?&source=share&version=2
 PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
 神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myblechat

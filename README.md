@@ -10,6 +10,11 @@
 
 ---
 
+## 下载最新版
+
+下载读乐乐：https://github.com/liuyaoxing/MyBLEChat/raw/master/releases/MyBLEChat_v3.7_sign_legu_signed_zipalign.apk
+
+---
 ## 应用商店下载
 
 商店名称 | 下载链接

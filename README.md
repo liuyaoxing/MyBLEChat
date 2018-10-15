@@ -10,6 +10,11 @@
 
 ---
 
+## 下载最新版
+
+下载左右手：https://github.com/liuyaoxing/MyBLEChat/raw/master/releases/MyBLEChat_v3.7_sign_legu_signed_zipalign.apk
+
+---
 ## 应用商店下载
 
 商店名称 | 下载链接
@@ -22,6 +27,7 @@ PP助手|http://m.pp.cn/detail.html?ch_src=pp&appid=7605551
 神马应用|http://a.sm.cn/details/info?pkg=com.liuyx.myblechat
 华为应用|http://a.vmall.com/app/C100037731?shareTo=weixin&shareFrom=appmarket
 豌豆荚  | http://www.wandoujia.com/apps/com.liuyx.myblechat
+小米商店|http://app.mi.com/details?id=com.liuyx.myblechat&ref=search
 
 ---
 ## 使用指南

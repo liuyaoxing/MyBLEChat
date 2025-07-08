@@ -10,6 +10,12 @@
 
 ---
 
+## 下载最新版
+
+下载左右手：https://github.com/liuyaoxing/MyBLEChat/releases/download/v3.22/MyBleChat-release-3.22.v202507082000.apk
+
+---
+
 # 用户注册及使用App隐私协议 
 
 在此特别提醒您成为用户之前，请认真阅读本《用户使用App隐私协议》（以下简称“协议”），确保您充分理解本协议中各条款。请您审慎阅读并选择接受或不接受本协议。除非您接受本协议所有条款，否则您无权使用本协议所涉服务。您的使用等行为将视为对本协议的接受，并同意接受本协议各项条款的约束。本协议约定左右手App与用户之间的权利义务。用户，是指注册、登录、使用本服务的个人或组织。本协议可由左右手App随时更新，更新后的协议条款一旦公布即代替原来的协议条款，恕不再另行通知，用户可在本App中查阅最新版协议条款。在修改协议条款后，如果用户不接受修改后的条款，请立即停止使用左右手提供的服务，用户继续使用左右手提供的服务将被视为接受修改后的协议。 
@@ -108,7 +114,7 @@
 
 ## 下载最新版
 
-下载左右手：https://github.com/liuyaoxing/MyBLEChat/raw/master/releases/MyBLEChat_v3.8_sign_legu_signed_zipalign.apk
+下载左右手：https://github.com/liuyaoxing/MyBLEChat/releases/download/v3.22/MyBleChat-release-3.22.v202507082000.apk
 
 ---
 ## 应用商店下载
